@@ -1,0 +1,22 @@
+
+.jqs-demo {
+  min-width: 600px;
+  width: 100%;
+  height: 500px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+pre {
+  width: 100%;
+  background: #eee;
+  border: 1px solid #ddd;
+}
+pre.large {
+  height: 500px;
+}
+
+textarea {
+  width: 100%;
+  height: 80px;
+}
